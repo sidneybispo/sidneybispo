@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com projetos para qualquer modelo de negócio [previsao score](https://github.com/sidneybispo/previsao-score-ia)
 
-- 🌱 Atualmente estou me especializando **LLMs, Generative AI e Machine Learning**
+- 🌱 Atualmente estou me especializando em:**Generative AI e Machine Learning**
 
 - 💬 Me pergunte sobre **AgentsAI, LangChain, Databricks, Google Colab, MLOps, Streamlit, ReactPy, CrewAI, Python e SQL**
 
