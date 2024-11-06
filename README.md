@@ -5,7 +5,7 @@
 
 - 🌱 Estou me especializando em: **Generative AI e Machine Learning.**
 
-- 💬 Me pergunte sobre **AgentsAI, LangChain, Databricks, Google Colab, MLOps, Streamlit, ReactPy, CrewAI, Python e SQL.**
+- 💬 Me pergunte sobre:  **AgentsAI, LangChain, Databricks, Google Colab, MLOps, Streamlit, ReactPy, CrewAI, Python e SQL.**
 
 - 📫 Voce me acha:  **sidneydev@outlook.com**
 
