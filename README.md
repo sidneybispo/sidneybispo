@@ -1,15 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Sidney Bispo!</h1>
 <h3 align="center">Apaixonado por Ciencia de Dados e Inteligencia Artificial</h3>
 
-- 🔭 Atualmente estou trabalhando com projetos para qualquer modelo de negócio [previsao score](https://github.com/sidneybispo/previsao-score-ia)
+- 🔭 Atualmente estou trabalhando com projetos para qualquer modelo de negócio. [previsao score](https://github.com/sidneybispo/previsao-score-ia)
 
-- 🌱 Estou me especializando em: **Generative AI e Machine Learning**
+- 🌱 Estou me especializando em: **Generative AI e Machine Learning.**
 
-- 💬 Me pergunte sobre **AgentsAI, LangChain, Databricks, Google Colab, MLOps, Streamlit, ReactPy, CrewAI, Python e SQL**
+- 💬 Me pergunte sobre **AgentsAI, LangChain, Databricks, Google Colab, MLOps, Streamlit, ReactPy, CrewAI, Python e SQL.**
 
-- 📫 Voce me acha **sidneydev@outlook.com**
+- 📫 Voce me acha:  **sidneydev@outlook.com**
 
-- 📄 Minhas experiencias profissionais [https://www.linkedin.com/in/sidneydev/](https://www.linkedin.com/in/sidneydev/)
+- 📄 Minhas experiencias profissionais:  [https://www.linkedin.com/in/sidneydev/](https://www.linkedin.com/in/sidneydev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
